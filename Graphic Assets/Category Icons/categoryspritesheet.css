@@ -1,0 +1,71 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-Brews {
+    width: 128px;
+    height: 128px;
+    background-position: -5px -5px;
+}
+
+.sprite-Dine {
+    width: 128px;
+    height: 128px;
+    background-position: -143px -5px;
+}
+
+.sprite-Finance {
+    width: 128px;
+    height: 128px;
+    background-position: -281px -5px;
+}
+
+.sprite-Flight {
+    width: 128px;
+    height: 128px;
+    background-position: -5px -143px;
+}
+
+.sprite-Gas {
+    width: 128px;
+    height: 128px;
+    background-position: -143px -143px;
+}
+
+.sprite-Health {
+    width: 128px;
+    height: 128px;
+    background-position: -281px -143px;
+}
+
+.sprite-Park {
+    width: 128px;
+    height: 128px;
+    background-position: -5px -281px;
+}
+
+.sprite-Residential {
+    width: 128px;
+    height: 128px;
+    background-position: -143px -281px;
+}
+
+.sprite-Shop {
+    width: 128px;
+    height: 128px;
+    background-position: -281px -281px;
+}
+
+.sprite-Sports {
+    width: 128px;
+    height: 128px;
+    background-position: -419px -5px;
+}
+
+.sprite-Truck {
+    width: 128px;
+    height: 128px;
+    background-position: -419px -143px;
+}

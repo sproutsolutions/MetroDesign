@@ -1,0 +1,203 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-BusinessDistrict128x128-0 {
+    width: 122px;
+    height: 106px;
+    background-position: -5px -5px;
+}
+
+.sprite-BusinessDistrict128x128-1 {
+    width: 122px;
+    height: 106px;
+    background-position: -137px -5px;
+}
+
+.sprite-BusinessDistrict128x128-10 {
+    width: 122px;
+    height: 106px;
+    background-position: -269px -5px;
+}
+
+.sprite-BusinessDistrict128x128-11 {
+    width: 122px;
+    height: 106px;
+    background-position: -401px -5px;
+}
+
+.sprite-BusinessDistrict128x128-12 {
+    width: 122px;
+    height: 106px;
+    background-position: -5px -121px;
+}
+
+.sprite-BusinessDistrict128x128-13 {
+    width: 122px;
+    height: 106px;
+    background-position: -137px -121px;
+}
+
+.sprite-BusinessDistrict128x128-14 {
+    width: 122px;
+    height: 106px;
+    background-position: -269px -121px;
+}
+
+.sprite-BusinessDistrict128x128-15 {
+    width: 122px;
+    height: 106px;
+    background-position: -401px -121px;
+}
+
+.sprite-BusinessDistrict128x128-16 {
+    width: 122px;
+    height: 106px;
+    background-position: -5px -237px;
+}
+
+.sprite-BusinessDistrict128x128-17 {
+    width: 122px;
+    height: 106px;
+    background-position: -137px -237px;
+}
+
+.sprite-BusinessDistrict128x128-18 {
+    width: 122px;
+    height: 106px;
+    background-position: -269px -237px;
+}
+
+.sprite-BusinessDistrict128x128-19 {
+    width: 122px;
+    height: 106px;
+    background-position: -401px -237px;
+}
+
+.sprite-BusinessDistrict128x128-2 {
+    width: 122px;
+    height: 106px;
+    background-position: -5px -353px;
+}
+
+.sprite-BusinessDistrict128x128-20 {
+    width: 122px;
+    height: 106px;
+    background-position: -137px -353px;
+}
+
+.sprite-BusinessDistrict128x128-21 {
+    width: 122px;
+    height: 106px;
+    background-position: -269px -353px;
+}
+
+.sprite-BusinessDistrict128x128-22 {
+    width: 122px;
+    height: 106px;
+    background-position: -401px -353px;
+}
+
+.sprite-BusinessDistrict128x128-23 {
+    width: 122px;
+    height: 106px;
+    background-position: -5px -469px;
+}
+
+.sprite-BusinessDistrict128x128-24 {
+    width: 122px;
+    height: 106px;
+    background-position: -137px -469px;
+}
+
+.sprite-BusinessDistrict128x128-25 {
+    width: 122px;
+    height: 106px;
+    background-position: -269px -469px;
+}
+
+.sprite-BusinessDistrict128x128-26 {
+    width: 122px;
+    height: 106px;
+    background-position: -401px -469px;
+}
+
+.sprite-BusinessDistrict128x128-3 {
+    width: 122px;
+    height: 106px;
+    background-position: -533px -5px;
+}
+
+.sprite-BusinessDistrict128x128-4 {
+    width: 122px;
+    height: 106px;
+    background-position: -533px -121px;
+}
+
+.sprite-BusinessDistrict128x128-5 {
+    width: 122px;
+    height: 106px;
+    background-position: -533px -237px;
+}
+
+.sprite-BusinessDistrict128x128-6 {
+    width: 122px;
+    height: 106px;
+    background-position: -533px -353px;
+}
+
+.sprite-BusinessDistrict128x128-7 {
+    width: 122px;
+    height: 106px;
+    background-position: -533px -469px;
+}
+
+.sprite-BusinessDistrict128x128-8 {
+    width: 122px;
+    height: 106px;
+    background-position: -5px -585px;
+}
+
+.sprite-BusinessDistrict128x128-9 {
+    width: 122px;
+    height: 106px;
+    background-position: -137px -585px;
+}
+
+.sprite-github {
+    width: 30px;
+    height: 30px;
+    background-position: -665px -5px;
+}
+
+.sprite-gmail {
+    width: 30px;
+    height: 30px;
+    background-position: -705px -5px;
+}
+
+.sprite-linkedin {
+    width: 30px;
+    height: 30px;
+    background-position: -745px -5px;
+}
+
+.sprite-stackoverflow {
+    width: 30px;
+    height: 30px;
+    background-position: -665px -45px;
+}
+
+.sprite-tumblr {
+    width: 30px;
+    height: 30px;
+    background-position: -705px -45px;
+}
+
+.sprite-twitter {
+    width: 30px;
+    height: 30px;
+    background-position: -745px -45px;
+}
